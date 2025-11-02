@@ -5,7 +5,9 @@ This project contains a backend API (Node/Express/MongoDB) and a frontend SPA (R
 
 ### Backend (run in `backend/`)
 
-1. Copy `.env` and set `MONGO_URI` and `PORT`.
+1. Setup .env file with 
+      PORT=4000
+      MONGO_URI=mongodb://localhost:27017/expense_tracker for the locally Run.
 2. Install dependencies:
    cd backend
    npm install
