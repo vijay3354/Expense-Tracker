@@ -10,7 +10,7 @@ This project contains a backend API (Node/Express/MongoDB) and a frontend SPA (R
    cd backend
    npm install
 3. Start server (development):
-   npm run dev
+   node server.js
 4. The API runs at `http://localhost:4000` 
 
 ### Frontend (run in `frontend/`)
