@@ -1,4 +1,4 @@
-# Expense Tracker — EGC India (Machine Test)
+# Expense Tracker
 
 ## Overview
 This project contains a backend API (Node/Express/MongoDB) and a frontend SPA (React + Vite). Follow the instructions below to run locally.
